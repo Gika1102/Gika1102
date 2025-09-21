@@ -35,8 +35,3 @@
 ![Followers](https://img.shields.io/github/followers/Gika1102?color=pink&style=for-the-badge&logo=github)  
 ![Stars](https://img.shields.io/github/stars/Gika1102?color=red&style=for-the-badge&logo=github)  
 ![Profile Views](https://komarev.com/ghpvc/?username=Gika1102&color=ff69b4&style=for-the-badge&label=✨+visitas+✨)  
-
----
-
-## 🧚‍♀️🌷 Uma pitada de magia  
-<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="300" alt="Gif de fadas com brilho"/>
