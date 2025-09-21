@@ -1,16 +1,42 @@
-## Hi there 👋
+# 🧚‍♀️✨ Olá, eu sou a Gika1102! ✨🧚‍♀️  
 
-<!--
-**Gika1102/Gika1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💖 **Sobre mim**  
+- 🧚 Apaixonada por **tecnologia** e por espalhar um pouquinho de magia pelo caminho  
+- 🌸 Explorando **Power BI**, **Automação (Power Automate)** e **Machine Learning**  
+- 💫 Sempre buscando soluções criativas e inovadoras com um toque de encanto  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💕✨ Minhas habilidades  
+- 📊 **Business Intelligence:** Power BI, DAX, modelagem de dados  
+- 🤖 **Automação:** Power Automate, SharePoint, Teams  
+- 🧰 **Ferramentas:** Git, Notion, Excel avançado  
+
+---
+
+## 🌹 O que estou aprendendo agora  
+- 🧚‍♀️ Machine Learning básico e visualização de dados  
+- 🌺 Boas práticas de design para dashboards  
+
+---
+
+## 🧚‍♀️📫 Como me encontrar  
+- 💌 [Email](mailto:dihsantos2502@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/giovanna-felixdossantos/)
+
+---
+
+## ✨💖 Curiosidades  
+> “🌟 Mesmo o menor dos brilhos pode iluminar a escuridão. 🌸”
+
+---
+
+### 🌸✨ Badges fofos  
+![Followers](https://img.shields.io/github/followers/Gika1102?color=pink&style=for-the-badge&logo=github)  
+![Stars](https://img.shields.io/github/stars/Gika1102?color=red&style=for-the-badge&logo=github)  
+![Profile Views](https://komarev.com/ghpvc/?username=Gika1102&color=ff69b4&style=for-the-badge&label=✨+visitas+✨)  
+
+---
+
+## 🧚‍♀️🌷 Uma pitada de magia  
+<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="300" alt="Gif de fadas com brilho"/>
